@@ -1,2 +1,3 @@
 project name : project url 
 1. Currency_Converter  : currency-converter-coral-gamma.vercel.app
+2. Pssword Generator : password-generator-eta-eight-44.vercel.app
